@@ -32,3 +32,7 @@ a new column with the differences is that when you switch to a new turnstile, th
 > 5. Map (literally or figuratively) those insights into actionable info for the "client" - MVP
 > 6. Stitch together multiple weeks
 > 7. Iterate on MVP 
+
+# How should we approach/project pipeline:
+
+> consider neighborhood income
